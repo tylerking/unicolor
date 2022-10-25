@@ -3,7 +3,8 @@
   "displayName": "Unicolor",
   "description": "A dark theme for Visual Studio Code",
   "publisher": "tylerking",
-  "version": "0.0.1",
+  "icon": "unicorn.png",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.72.0"
   },
