@@ -4,9 +4,8 @@
 Unicolor is accessible and adheres to WCAG AAA guidelines. [See for yourself.](http://www.sussex.ac.uk/tel/resource/tel_website/accessiblecontrast/?q=1A1D1A~A0ABA0~F7F6F3~DDD1C7~FDBBA7~F4869E~A6D5CE~00BDBD~71D2FE~CEC1EC~B29EE0)
 
 ## Sample
-<img src="https://github.com/tylerking/unicolor/blob/main/images/sample-template.png?raw=true" alt="Template Sample" />\
-<img src="https://github.com/tylerking/unicolor/blob/main/images/sample-script.png?raw=true" alt="Script Sample" />\
-<img src="https://github.com/tylerking/unicolor/blob/main/images/sample-scss.png?raw=true" alt="SCSS Sample" />
+<img src="https://github.com/tylerking/unicolor/blob/main/images/sample.png?raw=true" alt="Code Sample" />\
+[Click to view sample application](https://codepen.io/doitliketyler/pen/WNyNWvo)
 
 ## Colors
 | Color | Name | HEX | HSL | RGB |
@@ -30,3 +29,6 @@ Unicolor is accessible and adheres to WCAG AAA guidelines. [See for yourself.](h
 - Add support for Hyper
 - Add support for Slack
 - Add support for many more
+
+## Credits
+[Unicorn icon created by Freepik - Flaticon](https://www.flaticon.com/free-icons/unicorn)
